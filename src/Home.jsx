@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import Logo from "./style/DanyCiriaco-main/img/logo.png";
+import Logo from "./style/img/logo.png";
 import banner_foto from "./style/img/banner.png";
 import olhos from "./style/img/olhos.png";
 import pele from "./style/img/pele.png";
